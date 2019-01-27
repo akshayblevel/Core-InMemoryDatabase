@@ -1,0 +1,11 @@
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\bin\Debug\netcoreapp2.0\EFCoreInMemory.deps.json
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\bin\Debug\netcoreapp2.0\EFCoreInMemory.runtimeconfig.json
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\bin\Debug\netcoreapp2.0\EFCoreInMemory.runtimeconfig.dev.json
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\bin\Debug\netcoreapp2.0\EFCoreInMemory.dll
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\obj\Debug\netcoreapp2.0\EFCoreInMemory.csprojAssemblyReference.cache
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\obj\Debug\netcoreapp2.0\EFCoreInMemory.csproj.CoreCompileInputs.cache
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\obj\Debug\netcoreapp2.0\EFCoreInMemory.AssemblyInfoInputs.cache
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\obj\Debug\netcoreapp2.0\EFCoreInMemory.AssemblyInfo.cs
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\bin\Debug\netcoreapp2.0\EFCoreInMemory.pdb
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\obj\Debug\netcoreapp2.0\EFCoreInMemory.dll
+E:\Akki\POC\Final\EFCoreInMemory\EFCoreInMemory\obj\Debug\netcoreapp2.0\EFCoreInMemory.pdb
